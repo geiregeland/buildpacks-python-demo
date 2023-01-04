@@ -1,3 +1,3 @@
-# buildpacks-python-demo
-Basic Python application I used on the buildpacks video.
+# buildpacks-python-test
+Basic Python application.
 # buildpack-python-demo
