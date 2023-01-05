@@ -17,3 +17,8 @@ def hello_user(username):
     # say hello to that user
     app.logger.info("/hello path. User: " + username)
     return "Hello %s" % escape(username)
+
+
+if __name__ == "__main__":
+    app.run(debug=True,host="0.0.0.0")
+    
